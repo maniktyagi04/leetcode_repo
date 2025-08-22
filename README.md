@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Monotonic Stack
 |  |
 | ------- |
