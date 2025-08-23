@@ -1,96 +1,79 @@
-from typing import List
-
 class Solution:
     def minimumSum(self, grid: List[List[int]]) -> int:
-        m, n = len(grid), len(grid[0])
+        return min(self.f(grid), self.f(rotate(grid)))
 
-        # Collect all 1-cells once
-        ones = [(i, j) for i in range(m) for j in range(n) if grid[i][j] == 1]
+    def f(self, a: List[List[int]]) -> int:
+        m, n = len(a), len(a[0])
+        lr = []  # 每一行最左最右 1 的列号
+        for i in range(m):
+            l, r = -1, 0
+            for j in range(n):
+                if a[i][j] > 0:
+                    if l < 0:
+                        l = j
+                    r = j
+            lr.append((l, r))
 
-        # If no 1s: we still must place 3 non-overlapping rectangles with non-zero area.
-        # Any guillotine layout with 3 regions gives cost 1+1+1 = 3.
-        if not ones:
-            return 3
+        def minimumArea(a: List[List[int]]) -> List[List[int]]:
+            m, n = len(a), len(a[0])
+            # f[i+1][j+1] 表示包含【左上角为 (0,0) 右下角为 (i,j) 的子矩形】中的所有 1 的最小矩形面积
+            f = [[0] * (n + 1) for _ in range(m + 1)]
+            border = [(-1, 0, 0)] * n
+            for i, row in enumerate(a):
+                left, right = -1, 0
+                for j, x in enumerate(row):
+                    if x:
+                        if left < 0:
+                            left = j
+                        right = j
+                    pre_top, pre_left, pre_right = border[j]
+                    if left < 0:  # 这一排目前全是 0
+                        f[i + 1][j + 1] = f[i][j + 1]  # 等于上面的结果
+                    elif pre_top < 0:  # 这一排有 1，上面全是 0
+                        f[i + 1][j + 1] = right - left + 1
+                        border[j] = (i, left, right)
+                    else:  # 这一排有 1，上面也有 1
+                        l = min(pre_left, left)
+                        r = max(pre_right, right)
+                        f[i + 1][j + 1] = (r - l + 1) * (i - pre_top + 1)
+                        border[j] = (pre_top, l, r)
+            return f
 
-        INF = 10**18
+        # lt[i+1][j+1] = 包含【左上角为 (0,0) 右下角为 (i,j) 的子矩形】中的所有 1 的最小矩形面积
+        lt = minimumArea(a)
+        a = rotate(a)
+        # lb[i][j+1] = 包含【左下角为 (m-1,0) 右上角为 (i,j) 的子矩形】中的所有 1 的最小矩形面积
+        lb = rotate(rotate(rotate(minimumArea(a))))
+        a = rotate(a)
+        # rb[i][j] = 包含【右下角为 (m-1,n-1) 左上角为 (i,j) 的子矩形】中的所有 1 的最小矩形面积
+        rb = rotate(rotate(minimumArea(a)))
+        a = rotate(a)
+        # rt[i+1][j] = 包含【右上角为 (0,n-1) 左下角为 (i,j) 的子矩形】中的所有 1 的最小矩形面积
+        rt = rotate(minimumArea(a))
 
-        # area of tight bbox of ones inside region [r0,r1) x [c0,c1)
-        # if region has no 1s => must place a 1x1 dummy rectangle there -> area = 1
-        def area_region(r0: int, r1: int, c0: int, c1: int) -> int:
-            minr, maxr = m, -1
-            minc, maxc = n, -1
-            found = False
-            for i, j in ones:
-                if r0 <= i < r1 and c0 <= j < c1:
-                    found = True
-                    if i < minr: minr = i
-                    if i > maxr: maxr = i
-                    if j < minc: minc = j
-                    if j > maxc: maxc = j
-            if not found:
-                return 1  # dummy 1x1 rectangle in this region
-            return (maxr - minr + 1) * (maxc - minc + 1)
+        ans = inf
+        if m >= 3:
+            for i in range(1, m):
+                left, right, top, bottom = n, 0, m, 0
+                for j in range(i + 1, m):
+                    l, r = lr[j - 1]
+                    if l >= 0:
+                        left = min(left, l)
+                        right = max(right, r)
+                        top = min(top, j - 1)
+                        bottom = j - 1
+                    # 图片上左
+                    ans = min(ans, lt[i][n] + (right - left + 1) * (bottom - top + 1) + lb[j][n])
 
-        best = INF
+        if m >= 2 and n >= 2:
+            for i in range(1, m):
+                for j in range(1, n):
+                    # 图片上中
+                    ans = min(ans, lt[i][n] + lb[i][j] + rb[i][j])
+                    # 图片上右
+                    ans = min(ans, lt[i][j] + rt[i][j] + lb[i][n])
+        return ans
 
-        # 1) V|V: three vertical strips
-        for c1 in range(1, n - 1):
-            for c2 in range(c1 + 1, n):
-                cost = (
-                    area_region(0, m, 0, c1) +
-                    area_region(0, m, c1, c2) +
-                    area_region(0, m, c2, n)
-                )
-                if cost < best: best = cost
-
-        # 2) H-H: three horizontal strips
-        for r1 in range(1, m - 1):
-            for r2 in range(r1 + 1, m):
-                cost = (
-                    area_region(0, r1, 0, n) +
-                    area_region(r1, r2, 0, n) +
-                    area_region(r2, m, 0, n)
-                )
-                if cost < best: best = cost
-
-        # 3) V → LH: split left side horizontally
-        for c in range(1, n):
-            for r in range(1, m):
-                cost = (
-                    area_region(0, r, 0, c) +      # left-top
-                    area_region(r, m, 0, c) +      # left-bottom
-                    area_region(0, m, c, n)        # right
-                )
-                if cost < best: best = cost
-
-        # 4) V → RH: split right side horizontally
-        for c in range(1, n):
-            for r in range(1, m):
-                cost = (
-                    area_region(0, m, 0, c) +      # left
-                    area_region(0, r, c, n) +      # right-top
-                    area_region(r, m, c, n)        # right-bottom
-                )
-                if cost < best: best = cost
-
-        # 5) H → TV: split top side vertically
-        for r in range(1, m):
-            for c in range(1, n):
-                cost = (
-                    area_region(0, r, 0, c) +      # top-left
-                    area_region(0, r, c, n) +      # top-right
-                    area_region(r, m, 0, n)        # bottom
-                )
-                if cost < best: best = cost
-
-        # 6) H → BV: split bottom side vertically
-        for r in range(1, m):
-            for c in range(1, n):
-                cost = (
-                    area_region(0, r, 0, n) +      # top
-                    area_region(r, m, 0, c) +      # bottom-left
-                    area_region(r, m, c, n)        # bottom-right
-                )
-                if cost < best: best = cost
-
-        return best
+# 顺时针旋转矩阵 90°
+def rotate(a: List[List[int]]) -> List[List[int]]:
+    return list(zip(*reversed(a)))
