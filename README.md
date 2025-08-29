@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/maniktyagi04/leetcode_repo/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/maniktyagi04/leetcode_repo/tree/master/0066-plus-one) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/maniktyagi04/leetcode_repo/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
 |  |
 | ------- |
