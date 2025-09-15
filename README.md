@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/maniktyagi04/leetcode_repo/tree/master/0013-roman-to-integer) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/maniktyagi04/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/maniktyagi04/leetcode_repo/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/maniktyagi04/leetcode_repo/tree/master/0020-valid-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/maniktyagi04/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
 | ------- |
