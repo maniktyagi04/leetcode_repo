@@ -1,7 +1,7 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
 
-        dp=[-1]*(n+1)
+        dp={}
 
         def helper(x):
             if x==1:
