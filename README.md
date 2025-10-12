@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/maniktyagi04/leetcode_repo/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/maniktyagi04/leetcode_repo/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0070-climbing-stairs) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/maniktyagi04/leetcode_repo/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0070-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/maniktyagi04/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0070-climbing-stairs) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/maniktyagi04/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sorting
 |  |
