@@ -8,8 +8,8 @@ class Solution:
         if n==1:
             return nums[0]
 
-        dp[0] = nums[0]
-        dp[1] = max(nums[0], nums[1])
+        dp[0] = nums[0]     #sirf pehla ghar loot lo 
+        dp[1] = max(nums[0], nums[1])    # dono me vo ghar loot lo jisme paisa jyada hai 
 
         for i in range(2,n):
             dp[i] = max(dp[i-1], dp[i-2] + nums[i])
