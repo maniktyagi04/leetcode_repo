@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/maniktyagi04/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/maniktyagi04/leetcode_repo/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Greedy
 |  |
 | ------- |
