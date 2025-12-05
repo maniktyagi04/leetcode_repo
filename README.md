@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maniktyagi04/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/maniktyagi04/leetcode_repo/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/maniktyagi04/leetcode_repo/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/maniktyagi04/leetcode_repo/tree/master/0198-house-robber) |
 | [0498-diagonal-traverse](https://github.com/maniktyagi04/leetcode_repo/tree/master/0498-diagonal-traverse) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/maniktyagi04/leetcode_repo/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0747-min-cost-climbing-stairs) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/maniktyagi04/leetcode_repo/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0045-jump-game-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
