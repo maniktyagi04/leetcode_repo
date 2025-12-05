@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/maniktyagi04/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/maniktyagi04/leetcode_repo/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maniktyagi04/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/maniktyagi04/leetcode_repo/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/maniktyagi04/leetcode_repo/tree/master/0198-house-robber) |
 | [0498-diagonal-traverse](https://github.com/maniktyagi04/leetcode_repo/tree/master/0498-diagonal-traverse) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/maniktyagi04/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maniktyagi04/leetcode_repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maniktyagi04/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/0027-remove-element) |
 | [2481-strictly-palindromic-number](https://github.com/maniktyagi04/leetcode_repo/tree/master/2481-strictly-palindromic-number) |
 ## Enumeration
 |  |
