@@ -12,3 +12,4 @@ class Solution:
             else:
                 total += values[s[i]]
         return total
+        
