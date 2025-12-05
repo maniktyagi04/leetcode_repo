@@ -15,6 +15,3 @@ class Solution:
                 stack.append(char)
 
         return not stack 
-
-
-        
