@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maniktyagi04/leetcode_repo/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/maniktyagi04/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maniktyagi04/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/maniktyagi04/leetcode_repo/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/maniktyagi04/leetcode_repo/tree/master/0198-house-robber) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/maniktyagi04/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maniktyagi04/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/maniktyagi04/leetcode_repo/tree/master/2481-strictly-palindromic-number) |
 ## Enumeration
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/maniktyagi04/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
