@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/maniktyagi04/leetcode_repo/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/maniktyagi04/leetcode_repo/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/maniktyagi04/leetcode_repo/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/maniktyagi04/leetcode_repo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0070-climbing-stairs) |
 | [2481-strictly-palindromic-number](https://github.com/maniktyagi04/leetcode_repo/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/maniktyagi04/leetcode_repo/tree/master/0069-sqrtx) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Greedy
