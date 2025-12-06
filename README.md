@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/maniktyagi04/leetcode_repo/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0747-min-cost-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/maniktyagi04/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
 |  |
 | ------- |
@@ -154,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/maniktyagi04/leetcode_repo/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
