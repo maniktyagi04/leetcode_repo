@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0070-climbing-stairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/maniktyagi04/leetcode_repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/maniktyagi04/leetcode_repo/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2481-strictly-palindromic-number](https://github.com/maniktyagi04/leetcode_repo/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/maniktyagi04/leetcode_repo/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/maniktyagi04/leetcode_repo/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/maniktyagi04/leetcode_repo/tree/master/0058-length-of-last-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/maniktyagi04/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0747-min-cost-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/maniktyagi04/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
