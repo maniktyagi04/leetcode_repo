@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/maniktyagi04/leetcode_repo/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/maniktyagi04/leetcode_repo/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/maniktyagi04/leetcode_repo/tree/master/0058-length-of-last-word) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/maniktyagi04/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Array
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/maniktyagi04/leetcode_repo/tree/master/0198-house-robber) |
 | [0498-diagonal-traverse](https://github.com/maniktyagi04/leetcode_repo/tree/master/0498-diagonal-traverse) |
 | [0747-min-cost-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0747-min-cost-climbing-stairs) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/maniktyagi04/leetcode_repo/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0747-min-cost-climbing-stairs) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
