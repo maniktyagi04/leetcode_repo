@@ -199,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/maniktyagi04/leetcode_repo/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/maniktyagi04/leetcode_repo/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/maniktyagi04/leetcode_repo/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
