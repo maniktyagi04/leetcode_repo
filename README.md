@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/maniktyagi04/leetcode_repo/tree/master/0058-length-of-last-word) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/maniktyagi04/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Array
 |  |
