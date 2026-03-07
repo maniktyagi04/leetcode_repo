@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/maniktyagi04/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/maniktyagi04/leetcode_repo/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/maniktyagi04/leetcode_repo/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/maniktyagi04/leetcode_repo/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/maniktyagi04/leetcode_repo/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/maniktyagi04/leetcode_repo/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
 |  |
