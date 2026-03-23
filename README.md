@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0747-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/maniktyagi04/leetcode_repo/tree/master/0747-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/maniktyagi04/leetcode_repo/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/maniktyagi04/leetcode_repo/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/maniktyagi04/leetcode_repo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/maniktyagi04/leetcode_repo/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/maniktyagi04/leetcode_repo/tree/master/0498-diagonal-traverse) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
