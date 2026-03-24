@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2906-construct-product-matrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/2906-construct-product-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/maniktyagi04/leetcode_repo/tree/master/3074-apple-redistribution-into-boxes) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/maniktyagi04/leetcode_repo/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/maniktyagi04/leetcode_repo/tree/master/0498-diagonal-traverse) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
+| [2906-construct-product-matrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/2906-construct-product-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2906-construct-product-matrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/2906-construct-product-matrix) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
