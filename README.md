@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/maniktyagi04/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/maniktyagi04/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/maniktyagi04/leetcode_repo/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/maniktyagi04/leetcode_repo/tree/master/2573-find-the-string-with-lcp) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/maniktyagi04/leetcode_repo/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/maniktyagi04/leetcode_repo/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/maniktyagi04/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/maniktyagi04/leetcode_repo/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/maniktyagi04/leetcode_repo/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/maniktyagi04/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/maniktyagi04/leetcode_repo/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/maniktyagi04/leetcode_repo/tree/master/0069-sqrtx) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/maniktyagi04/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
