@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/maniktyagi04/leetcode_repo/tree/master/0498-diagonal-traverse) |
+| [2069-walking-robot-simulation-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/maniktyagi04/leetcode_repo/tree/master/2751-robot-collisions) |
 ## Memoization
 |  |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/maniktyagi04/leetcode_repo/tree/master/2573-find-the-string-with-lcp) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
