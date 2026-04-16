@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/maniktyagi04/leetcode_repo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3488-closest-equal-element-queries](https://github.com/maniktyagi04/leetcode_repo/tree/master/3488-closest-equal-element-queries) |
 | [3531-count-covered-buildings](https://github.com/maniktyagi04/leetcode_repo/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/maniktyagi04/leetcode_repo/tree/master/3583-count-special-triplets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/maniktyagi04/leetcode_repo/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/maniktyagi04/leetcode_repo/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3488-closest-equal-element-queries](https://github.com/maniktyagi04/leetcode_repo/tree/master/3488-closest-equal-element-queries) |
 | [3531-count-covered-buildings](https://github.com/maniktyagi04/leetcode_repo/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/maniktyagi04/leetcode_repo/tree/master/0069-sqrtx) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
+| [3488-closest-equal-element-queries](https://github.com/maniktyagi04/leetcode_repo/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/maniktyagi04/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
