@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/maniktyagi04/leetcode_repo/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/maniktyagi04/leetcode_repo/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3783-mirror-distance-of-an-integer](https://github.com/maniktyagi04/leetcode_repo/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
