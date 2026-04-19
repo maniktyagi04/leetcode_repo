@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/maniktyagi04/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2573-find-the-string-with-lcp](https://github.com/maniktyagi04/leetcode_repo/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/maniktyagi04/leetcode_repo/tree/master/2751-robot-collisions) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maniktyagi04/leetcode_repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maniktyagi04/leetcode_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/0027-remove-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/maniktyagi04/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2481-strictly-palindromic-number](https://github.com/maniktyagi04/leetcode_repo/tree/master/2481-strictly-palindromic-number) |
 ## Enumeration
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/maniktyagi04/leetcode_repo/tree/master/0069-sqrtx) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/maniktyagi04/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/maniktyagi04/leetcode_repo/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/maniktyagi04/leetcode_repo/tree/master/3661-maximum-walls-destroyed-by-robots) |
