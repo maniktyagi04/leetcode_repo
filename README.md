@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/maniktyagi04/leetcode_repo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/maniktyagi04/leetcode_repo/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/maniktyagi04/leetcode_repo/tree/master/1628-count-submatrices-with-all-ones) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/maniktyagi04/leetcode_repo/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/maniktyagi04/leetcode_repo/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2573-find-the-string-with-lcp](https://github.com/maniktyagi04/leetcode_repo/tree/master/2573-find-the-string-with-lcp) |
@@ -256,9 +257,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/maniktyagi04/leetcode_repo/tree/master/2573-find-the-string-with-lcp) |
 ## Design
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/maniktyagi04/leetcode_repo/tree/master/2069-walking-robot-simulation-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/maniktyagi04/leetcode_repo/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
